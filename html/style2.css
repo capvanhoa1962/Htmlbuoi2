@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+th {
+    background-color: orange;
+}
+.chu-nhat {
+    background-color: red;
+    color: white;
+}
+.thu-bay {
+    background-color: blue;
+    color: white;
+}
